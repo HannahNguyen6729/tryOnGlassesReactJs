@@ -1,9 +1,9 @@
 
-import RenderCalculator from "./RenderCalculator/RenderCalculator";
+import RenderGlasses from './RenderGlasses/RenderGlasses'
 function App() {
   return (
     <div className="App">
-      <RenderCalculator/>
+      <RenderGlasses/>
     </div>
   );
 }
